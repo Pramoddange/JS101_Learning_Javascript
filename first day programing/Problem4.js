@@ -1,0 +1,21 @@
+const name ="Name - Pramod Dange";
+const school="School Name - Masai School";
+const  grade ="Grade - A";
+const section ="Section - fw26";
+const rollNo=("Roll No - 1003");
+
+console.log("Report card of Student-2023");
+console.log();
+console.log(name);
+console.log(school);
+console.log(grade);
+console.log(section);
+console.log(rollNo);
+console.log();
+console.log("Mark Obtained Out of 100 in Best of Three Subject");
+let mark ="HTML Mark out of 100 = 85";
+console.log(mark);
+mark ="CSS Mark out of 100 = 95";
+console.log(mark);
+mark ="DSA Mark out of 100 = 90";
+console.log(mark);
